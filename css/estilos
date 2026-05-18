@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-image: url(../imagenes/fondo.png);
+}
+
+h1, h2, h3 {
+  font-family: "Arvo", serif;
+}
+
+.menuli{
+    display:inline-block
+}
+
+#contenedor {
+    background-color: aliceblue;
+    max-width: 960px;
+    padding: 3em;
+    margin: 3em 13em;
+
+}
+
+#bloque1{
+    background-color: rgb(202, 126, 19);
+
+}
+
+#bloque4{
+    background-color: rgb(202, 126, 19);
+}
+
+a:link{
+    color:aliceblue
+}
+
+a:visited{
+    color:rgb(163, 32, 32)
+}
+
+a:hover{
+    color:aquamarine
+}
+
+a:active{
+    color:blueviolet
+}
